@@ -1,0 +1,14 @@
+C:\Users\SCHAMA\Desktop\Algo_Chiffre\Algo_Chiffre\bin\Debug\Algo_Chiffre.exe.config
+C:\Users\SCHAMA\Desktop\Algo_Chiffre\Algo_Chiffre\obj\Debug\Algo_Chiffre.csprojResolveAssemblyReference.cache
+C:\Users\SCHAMA\Desktop\Algo_Chiffre\Algo_Chiffre\obj\Debug\Algo_Chiffre.Form1.resources
+C:\Users\SCHAMA\Desktop\Algo_Chiffre\Algo_Chiffre\obj\Debug\Algo_Chiffre.Properties.Resources.resources
+C:\Users\SCHAMA\Desktop\Algo_Chiffre\Algo_Chiffre\obj\Debug\Algo_Chiffre.csproj.GenerateResource.Cache
+C:\Users\SCHAMA\Desktop\Algo_Chiffre\Algo_Chiffre\bin\Debug\Algo_Chiffre.exe
+C:\Users\SCHAMA\Desktop\Algo_Chiffre\Algo_Chiffre\bin\Debug\Algo_Chiffre.pdb
+C:\Users\SCHAMA\Desktop\Algo_Chiffre\Algo_Chiffre\obj\Debug\Algo_Chiffre.exe
+C:\Users\SCHAMA\Desktop\Algo_Chiffre\Algo_Chiffre\obj\Debug\Algo_Chiffre.pdb
+C:\Users\SCHAMA\Desktop\Algo_Chiffre\Algo_Chiffre\obj\Debug\Algo_Chiffre.vigenere.resources
+C:\Users\SCHAMA\Desktop\Algo_Chiffre\Algo_Chiffre\obj\Debug\Algo_Chiffre.affine.resources
+C:\Users\SCHAMA\Desktop\Algo_Chiffre\Algo_Chiffre\obj\Debug\Algo_Chiffre.affineB.resources
+C:\Users\SCHAMA\Desktop\Algo_Chiffre\Algo_Chiffre\obj\Debug\Algo_Chiffre.hill.resources
+C:\Users\SCHAMA\Desktop\Algo_Chiffre\Algo_Chiffre\obj\Debug\Algo_Chiffre.rail_fence.resources
